@@ -60,6 +60,7 @@
       </intent-filter>
     </activity>
 
+    
     <service
         android:name="com.segment.analytics.PhoneAnalyticsListenerService">
       <intent-filter>
